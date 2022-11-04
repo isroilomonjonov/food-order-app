@@ -1,0 +1,26 @@
+.meal {
+  background-color: aliceblue;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name{
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 2rem;
+  color: gray;
+}
+.price {
+font-weight: 700;
+font-size: 2.5rem;
+margin-bottom: 1rem;
+}
+
+.right-side{
+  text-align: right;
+}

@@ -1,0 +1,7 @@
+.meals{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  margin-top: 3rem;
+}

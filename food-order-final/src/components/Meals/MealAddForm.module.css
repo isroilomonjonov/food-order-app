@@ -1,0 +1,13 @@
+.form{
+display: flex;
+justify-content: space-between;
+}
+
+.form input{
+  display: block;
+  width: 5rem;
+  padding: 0.5rem;
+  font-size: 1.8rem;
+  border-color: gray;
+  border-radius: 3px;
+}

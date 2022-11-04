@@ -1,0 +1,30 @@
+.item{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1px solid red;
+}
+
+.name{
+
+}
+.count{
+
+}
+.price{
+
+}
+
+.btns{
+display: flex;
+}
+.btns button{
+  padding: 1rem;
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  background-color:darkcyan;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 2rem;
+  cursor: pointer;
+}
